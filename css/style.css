@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(53, 218, 201);
+
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(13, 13, 13);
+    background-color: rgba(38, 203, 33, 0.697);
+    text-shadow: 30px 8px 8px;
+    border: 15px white;
+}
+.div1{
+    width: 800px;
+    height: 800px;
+    background-image: url(../images/fondo.jpg);
+    border: 5px rgba(99, 43, 21, 0.644);
+    border-style: double solid;
+    border-radius: 20px;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.vasquez{
+    width: 150px;
+    height: 200px;
+    border-style: initial black solid;
+}
+.nombre{
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 630px;
+    background-color: rgba(18, 23, 27, 0.803);
+    border:solid ;
+}
+#table, th, td{
+    border: solid 3px white;
+    text-align: center;
+    color: aqua;
+}
+.name{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    border: 10px;
+}
